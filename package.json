@@ -1,0 +1,28 @@
+{
+  "name": "autobahnraser-extractor",
+  "version": "0.0.1",
+  "description": "Extracts the game files of Autobahnraser (1997)",
+  "main": "extractor.js",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangxx/autobahnraser-extractor.git"
+  },
+  "keywords": [
+    "game",
+    "file",
+    "extractor"
+  ],
+  "author": "jangxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangxx/autobahnraser-extractor/issues"
+  },
+  "homepage": "https://github.com/jangxx/autobahnraser-extractor#readme"
+}
