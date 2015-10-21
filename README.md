@@ -7,7 +7,7 @@ A extractor for the game files of Autobahnraser from 1997
 ```bash
 git clone https://github.com/jangxx/autobahnraser-extractor
 cd autobahnraser-extractor
-npm init
+npm install
 ```
 
 ##Usage
@@ -20,3 +20,4 @@ node extractor.js -I mrcs
 ```
 
 The script would then extract the files to a directory named `mrcs`.
+You can use the `-O` parameter to change the output directory.
