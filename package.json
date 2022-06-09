@@ -1,12 +1,12 @@
 {
   "name": "autobahnraser-extractor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extracts the game files of Autobahnraser (1997)",
   "main": "extractor.js",
   "dependencies": {
-    "commander": "^2.9.0"
+    "commander": "^2.9.0",
+    "sanitize-filename": "^1.6.3"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
